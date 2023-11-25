@@ -11,5 +11,5 @@ This is a Quiz App built using React Native. It offers a platform for users to e
 ## Screenshots
 
 
-<img src="https://github.com/PremBhatiya/flutter-image-grid-app/blob/main/sc1.jpg " width="300">
-<img src="https://github.com/PremBhatiya/flutter-image-grid-app/blob/main/sc2.jpg " width="300">
+<img src="https://github.com/PremBhatiya/QuizApp-ReactNative/blob/main/screens1.png " width="300">
+<img src="https://github.com/PremBhatiya/QuizApp-ReactNative/blob/main/screen 2.png " width="300">
