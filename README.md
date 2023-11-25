@@ -12,4 +12,4 @@ This is a Quiz App built using React Native. It offers a platform for users to e
 
 
 <img src="https://github.com/kprem3742/QuizApp-ReactNative/blob/main/screens1.png" width="300">
-<img src="https://github.com/PremBhatiya/QuizApp-ReactNative/blob/main/screen 2.png " width="300">
+<img src="https://github.com/kprem3742/QuizApp-ReactNative/blob/main/screen%202.png" width="300">
