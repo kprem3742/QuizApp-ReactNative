@@ -1,5 +1,3 @@
-# QuizApp-ReactNative
-
 # React Native Quiz App
 
 This is a Quiz App built using React Native. It offers a platform for users to engage in quizzes on various topics.
